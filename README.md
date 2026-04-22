@@ -1,4 +1,4 @@
-# Hello there, I'm Williams 👋
+# Hello there, I'm Kachi 👋
 
 I'm a junior Android developer and junior cybersecurity analyst who enjoys building simple, practical applications while learning how systems work under the hood.
 
