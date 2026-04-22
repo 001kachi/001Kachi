@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello there, I'm Williams 👋
 
-<!--
-**001kachi/001Kachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Android developer and junior cybersecurity analyst who enjoys building simple, practical applications while learning how systems work under the hood.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 📱 Android utility apps
+- 🔐 Cybersecurity fundamentals and system security
+- 🧠 Permissions, background processes, and OS behavior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cybersecurity learning & skills
+- CCNA (Networking fundamentals)
+- CompTIA Security+ (Security basics and best practices)
+- CEH (in view)
+
+### Current project
+- **AutoSmsScheduler** — an Android app for scheduling SMS, calls, and reminders
+
+Still learning. Still building. Still improving.
